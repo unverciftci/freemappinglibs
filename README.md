@@ -30,3 +30,14 @@ https://github.com/fasouto/awesome-dataviz
 https://github.com/mathisonian/awesome-visualization-research
 https://github.com/eddiesigner/sketch-map-generator
 https://github.com/tudelft3d/cityjson
+
+https://www.loxodrome.io/post/zoomstack/
+https://maps.omniscale.com/en/
+https://www.geomesa.org/
+https://visualperspective.io/
+http://mapjam.com/
+https://data-viz-today.teachable.com/p/intro-map
+http://www.geosimulation.org/
+https://blog.mapbox.com/how-to-do-asset-tracking-cb27ba2da5ab
+https://opensource.appbase.io/reactivemaps/?ref=producthunt
+https://mapple.io/index.html#intro
