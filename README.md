@@ -44,3 +44,10 @@ https://mapple.io/index.html#intro
 http://maptime.io/
 https://github.com/mapzen/
 https://mapnik.org/
+
+https://github.com/CartoDB/cartodb
+https://github.com/mapd/mapd-core
+https://github.com/grafana/grafana
+https://github.com/stamen
+https://github.com/kineticadb
+http://turfjs.org/
