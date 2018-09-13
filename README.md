@@ -51,3 +51,4 @@ https://github.com/grafana/grafana
 https://github.com/stamen
 https://github.com/kineticadb
 http://turfjs.org/
+https://github.com/simonepri/geo-maps
