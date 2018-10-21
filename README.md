@@ -39,26 +39,26 @@ https://github.com/stamen <br/>
 https://github.com/simonepri/geo-maps <br/>
 
 
-DataVis Resources
+DataVis Resources <br/>
 https://github.com/fasouto/awesome-dataviz <br/>
 https://github.com/mathisonian/awesome-visualization-research <br/>
 https://data-viz-today.teachable.com/p/intro-map <br/>
 https://blog.mapbox.com/how-to-do-asset-tracking-cb27ba2da5ab <br/>
 
-Simulation & 3D
+Simulation & 3D <br/>
 http://www.geosimulation.org/ <br/>
 https://github.com/tudelft3d/cityjson <br/>
 
-Dashboard
+Dashboard <br/>
 https://github.com/grafana/grafana <br/>
 
-Geo Data Analysis
+Geo Data Analysis <br/>
 https://github.com/kineticadb <br/>
 http://turfjs.org/  <br/>
 https://github.com/mapd/mapd-core <br/>
 
 
-Remote Sensing
+Remote Sensing <br/>
 https://github.com/orfeotoolbox/OTB <br/> <br/>
 https://github.com/mapbox/robosat <br/> <br/>
 https://visualperspective.io <br/> <br/>
