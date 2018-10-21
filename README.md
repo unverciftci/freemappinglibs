@@ -7,19 +7,16 @@ https://github.com/OpenDroneMap/OpenDroneMap <br/>
 https://github.com/tomchadwin/qgis2web <br/>
 https://github.com/maputnik/editor <br/>
 https://github.com/modestmaps/modestmaps-js <br/>
-https://github.com/VisualPerspective/ndvi-viewer <br/>
 https://github.com/mitroadmaps/roadtracer <br/>
 https://github.com/developmentseed/label-maker <br/>
 https://github.com/florianf/tileoven <br/>
 https://github.com/kosmtik/kosmtik <br/>
-https://github.com/developmentseed/skynet-train <br/>
 https://github.com/tilemill-project/tilemill <br/>
 https://github.com/openstreetmap/iD <br/>
 https://github.com/cvalenzuela/Mappa <br/>
 https://github.com/apache/incubator-echarts <br/>
 https://github.com/openlayers/openlayers <br/>
 https://github.com/zcreativelabs/react-simple-maps <br/>
-https://github.com/Turfjs/turf <br/>
 https://github.com/Leaflet/Leaflet <br/>
 https://github.com/gboeing/osmnx <br/>
 https://github.com/jupyter-widgets/ipyleaflet <br/>
@@ -36,7 +33,6 @@ https://mapnik.org/ <br/>
 https://github.com/CartoDB/cartodb <br/>
 https://github.com/stamen <br/>
 https://github.com/simonepri/geo-maps <br/>
-
 
 DataVis Resources <br/>
 https://github.com/fasouto/awesome-dataviz <br/>
@@ -55,10 +51,13 @@ Geo Data Analysis <br/>
 https://github.com/kineticadb <br/>
 http://turfjs.org/  <br/>
 https://github.com/mapd/mapd-core <br/>
+https://github.com/Turfjs/turf <br/>
+https://github.com/VisualPerspective/ndvi-viewer <br/>
 
 
 Remote Sensing <br/>
 https://github.com/orfeotoolbox/OTB <br/> 
 https://github.com/mapbox/robosat <br/> 
 https://visualperspective.io <br/> 
+https://github.com/developmentseed/skynet-train <br/>
  
