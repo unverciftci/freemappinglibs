@@ -1,6 +1,5 @@
 # freemappinglibs
-Free Mapping Libraries
-
+Unclassified <br/>
 https://github.com/TerriaJS/terriajs <br/>
 https://github.com/AnalyticalGraphicsInc/cesium <br/>
 https://github.com/openmaptiles/openmaptiles <br/>
