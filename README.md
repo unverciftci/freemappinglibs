@@ -30,12 +30,18 @@ https://github.com/mapzen/ <br/>
 https://mapnik.org/ <br/>
 https://github.com/stamen <br/>
 https://github.com/simonepri/geo-maps <br/>
+https://moritzbru.gitlab.io/cartography-playground/ <br/>
+https://www.laomap.org/ <br/>
+https://tasks.hotosm.org/
 
 DataVis Resources <br/>
 https://github.com/fasouto/awesome-dataviz <br/>
 https://github.com/mathisonian/awesome-visualization-research <br/>
 https://data-viz-today.teachable.com/p/intro-map <br/>
 https://blog.mapbox.com/how-to-do-asset-tracking-cb27ba2da5ab <br/>
+https://geo-python.github.io/2018/index.html <br/>
+https://www.e-education.psu.edu/geog865/node/1 <br/>
+https://truth-and-beauty.net/projects
 
 Simulation & 3D <br/>
 http://www.geosimulation.org/ <br/>
@@ -60,4 +66,12 @@ https://github.com/orfeotoolbox/OTB <br/>
 https://github.com/mapbox/robosat <br/> 
 https://visualperspective.io <br/> 
 https://github.com/developmentseed/skynet-train <br/>
+https://scholar.google.com.tr/scholar?cluster=12092453047766024197&hl=en&as_sdt=0,5&sciodt=0,5 <br/>
+https://www.geospatialworld.net/blogs/machine-learning-in-satellite-imagery/ <br/>
+https://www.kaggle.com/kmader/segmenting-buildings-in-satellite-images/notebook <br/>
+https://rl-navigation.github.io/deployable/
+
+Data <br/>
+https://tbaldw.in/nyc-buildings/
+
  
