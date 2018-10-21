@@ -59,7 +59,7 @@ https://github.com/mapd/mapd-core <br/>
 
 
 Remote Sensing <br/>
-https://github.com/orfeotoolbox/OTB <br/> <br/>
-https://github.com/mapbox/robosat <br/> <br/>
-https://visualperspective.io <br/> <br/>
+https://github.com/orfeotoolbox/OTB <br/> 
+https://github.com/mapbox/robosat <br/> 
+https://visualperspective.io <br/> 
  
