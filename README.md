@@ -70,6 +70,7 @@ https://scholar.google.com.tr/scholar?cluster=12092453047766024197&hl=en&as_sdt=
 https://www.geospatialworld.net/blogs/machine-learning-in-satellite-imagery/ <br/>
 https://www.kaggle.com/kmader/segmenting-buildings-in-satellite-images/notebook <br/>
 https://rl-navigation.github.io/deployable/
+https://rastervision.io/
 
 Data <br/>
 https://tbaldw.in/nyc-buildings/
