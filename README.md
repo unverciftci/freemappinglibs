@@ -79,5 +79,10 @@ https://tbaldw.in/nyc-buildings/
 Data vis <br/>
 https://github.com/densitydesign/raw/ <br/>
 
+Other <br/>
+https://data-in.place/
+
+ML <br/> 
+https://tasks.developmentseed.org/project/26
 
  
