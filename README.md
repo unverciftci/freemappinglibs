@@ -71,6 +71,7 @@ https://www.geospatialworld.net/blogs/machine-learning-in-satellite-imagery/ <br
 https://www.kaggle.com/kmader/segmenting-buildings-in-satellite-images/notebook <br/>
 https://rl-navigation.github.io/deployable/
 https://rastervision.io/
+https://github.com/pangeo-data/pangeo#get-involved
 
 Data <br/>
 https://tbaldw.in/nyc-buildings/
