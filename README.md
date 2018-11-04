@@ -87,7 +87,8 @@ https://nteract.io/
 https://github.com/MacroConnections
 
 Other <br/>
-https://data-in.place/
+https://data-in.place/ <br/>
+https://github.com/chriswhong/nyctaxi
 
 ML <br/> 
 https://tasks.developmentseed.org/project/26
