@@ -34,6 +34,7 @@ https://moritzbru.gitlab.io/cartography-playground/ <br/>
 https://www.laomap.org/ <br/>
 https://tasks.hotosm.org/ <br/>
 https://github.com/urbica/martin <br/>
+https://github.com/mapbox/tippecanoe
 
 DataVis Resources <br/>
 https://github.com/fasouto/awesome-dataviz <br/>
