@@ -84,8 +84,10 @@ https://tbaldw.in/nyc-buildings/
 Data vis <br/>
 https://github.com/densitydesign/raw/ <br/>
 https://emeeks.github.io/semiotic/ <br/>
-https://nteract.io/
-https://github.com/MacroConnections
+https://nteract.io/ <br/>
+https://github.com/MacroConnections <br/>
+https://github.com/facebookresearch/visdom
+
 
 Other <br/>
 https://data-in.place/ <br/>
