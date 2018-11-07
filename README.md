@@ -96,4 +96,7 @@ https://github.com/chriswhong/nyctaxi
 ML <br/> 
 https://tasks.developmentseed.org/project/26
 
+3D <br/>
+https://github.com/tudelft3d/3dfier
+
  
