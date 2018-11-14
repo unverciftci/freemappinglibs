@@ -37,6 +37,10 @@ https://github.com/urbica/martin <br/>
 https://github.com/mapbox/tippecanoe <br/>
 https://stadiamaps.com/
 
+preview
+
+http://leaflet-extras.github.io/leaflet-providers/preview/
+
 DataVis Resources <br/>
 https://github.com/fasouto/awesome-dataviz <br/>
 https://github.com/mathisonian/awesome-visualization-research <br/>
