@@ -104,7 +104,8 @@ https://www.datawrapper.de/
 
 Other <br/>
 https://data-in.place/ <br/>
-https://github.com/chriswhong/nyctaxi
+https://github.com/chriswhong/nyctaxi <br/>
+http://datamaps.github.io/
 
 ML <br/> 
 https://tasks.developmentseed.org/project/26
@@ -115,3 +116,7 @@ https://github.com/tudelft3d/3dfier
 Geocoding
 
 https://github.com/opencagedata
+
+example
+
+https://beta.observablehq.com/@tmcw/leaflet
