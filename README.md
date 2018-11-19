@@ -50,7 +50,7 @@ https://data-viz-today.teachable.com/p/intro-map <br/>
 https://blog.mapbox.com/how-to-do-asset-tracking-cb27ba2da5ab <br/>
 https://geo-python.github.io/2018/index.html <br/>
 https://www.e-education.psu.edu/geog865/node/1 <br/>
-https://truth-and-beauty.net/projects
+https://truth-and-beauty.net/projects <br/>
 
 Simulation & 3D <br/>
 http://www.geosimulation.org/ <br/>
