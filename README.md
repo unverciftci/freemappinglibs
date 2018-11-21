@@ -37,7 +37,10 @@ https://github.com/urbica/martin <br/>
 https://github.com/mapbox/tippecanoe <br/>
 https://stadiamaps.com/<br/>
 https://github.com/CartoDB/carto-vl <br/>
-https://github.com/geosolutions-it/MapStore2
+https://github.com/geosolutions-it/MapStore2 <br/>
+https://github.com/mapbox/tippecanoe <br/>
+http://www.naturalearthdata.com/ <br/>
+https://www.geofabrik.de/
 
 preview
 
@@ -122,3 +125,5 @@ example
 https://beta.observablehq.com/@tmcw/leaflet
 
 https://www.kiln.digital/
+
+https://graphhopper.com/maps/
