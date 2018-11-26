@@ -109,6 +109,7 @@ Other <br/>
 https://data-in.place/ <br/>
 https://github.com/chriswhong/nyctaxi <br/>
 http://datamaps.github.io/
+http://data-illustrator.com/app/index.html
 
 ML <br/> 
 https://tasks.developmentseed.org/project/26
@@ -127,3 +128,9 @@ https://beta.observablehq.com/@tmcw/leaflet
 https://www.kiln.digital/
 
 https://graphhopper.com/maps/
+
+labs:
+
+https://www.cc.gatech.edu/gvu/ii/
+
+https://www.media.mit.edu/research/?filter=everything&tag=data-visualization
