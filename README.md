@@ -129,8 +129,13 @@ https://www.kiln.digital/
 
 https://graphhopper.com/maps/
 
+https://github.com/unicef/magicbox
 labs:
 
 https://www.cc.gatech.edu/gvu/ii/
 
 https://www.media.mit.edu/research/?filter=everything&tag=data-visualization
+
+Companies <br/>
+https://morphocode.com/
+https://urbica.co/
