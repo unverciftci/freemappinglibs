@@ -58,6 +58,7 @@ https://truth-and-beauty.net/projects <br/>
 Simulation & 3D <br/>
 http://www.geosimulation.org/ <br/>
 https://github.com/tudelft3d/cityjson <br/>
+https://osmbuildings.org/
 
 Dashboard <br/>
 https://github.com/grafana/grafana <br/>
