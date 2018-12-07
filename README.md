@@ -106,6 +106,7 @@ https://atlas.media.mit.edu/en/ <br/>
 https://datausa.io <br/>
 https://www.data-to-viz.com/ <br/>
 https://www.datawrapper.de/
+https://github.com/plouc/nivo
 
 Other <br/>
 https://data-in.place/ <br/>
