@@ -65,6 +65,7 @@ https://osmbuildings.org/
 Dashboard <br/>
 https://github.com/grafana/grafana <br/>
 https://www.clearpeaks.com/displaying-geographic-data-obiee/
+http://keen.github.io/dashboards/
 
 Geo Data Analysis <br/>
 https://github.com/kineticadb <br/>
