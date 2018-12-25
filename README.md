@@ -113,6 +113,7 @@ https://www.data-to-viz.com/ <br/>
 https://www.datawrapper.de/ <br/>
 https://github.com/plouc/nivo <br/>
 https://github.com/emeeks/semiotic <br/>
+https://github.com/FormidableLabs/victory
 
 Other <br/>
 https://data-in.place/ <br/>
