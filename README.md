@@ -110,8 +110,9 @@ https://databasic.io/en/ <br/>
 https://atlas.media.mit.edu/en/ <br/>
 https://datausa.io <br/>
 https://www.data-to-viz.com/ <br/>
-https://www.datawrapper.de/
-https://github.com/plouc/nivo
+https://www.datawrapper.de/ <br/>
+https://github.com/plouc/nivo <br/>
+https://github.com/emeeks/semiotic <br/>
 
 Other <br/>
 https://data-in.place/ <br/>
