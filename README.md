@@ -41,10 +41,11 @@ https://github.com/geosolutions-it/MapStore2 <br/>
 https://github.com/mapbox/tippecanoe <br/>
 http://www.naturalearthdata.com/ <br/>
 https://www.geofabrik.de/
+https://github.com/PaulLeCam/react-leaflet
 
 preview
 
-http://leaflet-extras.github.io/leaflet-providers/preview/
+http://let-extras.github.io/leaflet-providers/preview/
 
 https://overpass-turbo.eu/
 
@@ -116,6 +117,7 @@ https://github.com/emeeks/semiotic <br/>
 https://github.com/FormidableLabs/victory
 http://gionkunz.github.io/chartist-js/
 https://github.com/recharts/recharts
+https://github.com/FormidableLabs/victory
 
 Other <br/>
 https://data-in.place/ <br/>
@@ -139,7 +141,7 @@ https://beta.observablehq.com/@tmcw/leaflet
 
 https://www.kiln.digital/
 
-https://graphhopper.com/maps/
+https://graphopper.com/maps/
 
 https://github.com/unicef/magicbox
 labs:
