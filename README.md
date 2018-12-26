@@ -114,6 +114,8 @@ https://www.datawrapper.de/ <br/>
 https://github.com/plouc/nivo <br/>
 https://github.com/emeeks/semiotic <br/>
 https://github.com/FormidableLabs/victory
+http://gionkunz.github.io/chartist-js/
+https://github.com/recharts/recharts
 
 Other <br/>
 https://data-in.place/ <br/>
