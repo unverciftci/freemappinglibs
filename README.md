@@ -118,6 +118,7 @@ https://github.com/FormidableLabs/victory
 http://gionkunz.github.io/chartist-js/
 https://github.com/recharts/recharts
 https://github.com/FormidableLabs/victory
+https://nivo.rocks
 
 Other <br/>
 https://data-in.place/ <br/>
