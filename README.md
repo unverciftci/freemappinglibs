@@ -42,6 +42,7 @@ https://github.com/mapbox/tippecanoe <br/>
 http://www.naturalearthdata.com/ <br/>
 https://www.geofabrik.de/
 https://github.com/PaulLeCam/react-leaflet
+http://python-visualization.github.io/folium/
 
 preview
 
