@@ -51,6 +51,7 @@ http://let-extras.github.io/leaflet-providers/preview/
 https://overpass-turbo.eu/
 
 DataVis Resources <br/>
+https://github.com/sacridini/Awesome-Geospatial#python
 https://dataviz.tools/
 https://github.com/fasouto/awesome-dataviz <br/>
 https://github.com/mathisonian/awesome-visualization-research <br/>
